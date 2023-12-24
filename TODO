@@ -1,0 +1,58 @@
+- Cliente
+    - Saldo disponível (positivo ou negativo)
+    - Lançamentos agendados até dia XX/YY/ZZZZ (em geral negativo, ex: boleto, faturas, debito automático, etc.)
+    - Limites
+        - Saque: diário e mensal
+        - Pagamento: diário e mensal -> normais e agendados
+        - Transferência: diáro e mensal -> normais e agendados, conta cadastrada
+        - PIX: diário e mensal -> normais e angendados, pessoas e empresas cadastradas
+        - Cartão:
+            - Crédito: físico e digital
+            - Débito
+
+- Caixa eletrônico
+    - Quantidade de notas disponíveis
+    - Sacar dinheiro
+    - Depositar
+
+- Internet bank
+    - Senhas
+    - Operações
+        - Pagamentos
+            - Leitor de código de barras
+            - Digitar código de barras
+            - Pagar fatura do Cartão
+            - Impostos e taxas (IPTU, DARF, GPS, Débitos de veículos, outros...)
+            - Cancelar agendamentos
+            - Débito automático
+                - Incluir: via código de barras ou QR Code, via número do convênio
+                - Confirmar autorização
+                - Cancelar autorização
+                - Consultar autorizações
+                - Reincluir autorização cancelada
+                - Bloquear e desbloquear débitos agendados
+            - Comprovantes: pagamentos 2ª via e débito automático 2ª via
+        - PIX
+            - Pagar ou transferir com PIX
+            - LER QR code
+            - PIX copia e cola
+            - Cobrar com pix: criar QR code e colsultar cobranças (que você criou)
+            - Cobranças recebidas PIX (que você tem que pagar)
+            - Movimentações: detalhar Movimentações
+            - Chaves PIX: Minhas chaves, cadastrar chave e solicitar portabilidade
+        - Transferência
+            - Fazer Transferência (DOC?) ou TED
+            - Transferir dinheiro de outro banco para o atual
+            - Transferir de conta salário para conta corrente
+            - Cancelar agendamento
+            - 2 via de comprovante
+            - Pagar ou receber: criar cobrança e histórico de cobranças
+            - Depósito identificado
+    - Consultar saldo
+        - Conta corrente
+        - Poupança
+    - Poupança
+        - Extrato
+        - Aplicar
+        - Resgatar
+    - Cartões... (tem muita coisa)
